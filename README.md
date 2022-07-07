@@ -12,3 +12,7 @@
 [Matplotlib 필기](https://seayurre.github.io/-/matplotlib.html)
 
 
+## 중간범위
+[Pandas](https://seayurre.github.io/-/인공지능_Pandas.html)
+[
+
