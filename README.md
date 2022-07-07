@@ -13,6 +13,6 @@
 
 
 ## 중간범위
-[Pandas](https://seayurre.github.io/-/인공지능_Pandas.html)
-[
+[Pandas](https://seayurre.github.io/-/인공지능_Pandas.html)  
+[Numpy](https://seayurre.github.io/-/인공지능과%20미래사회%20B%20Numpy%20총정리.html)
 
